@@ -1,2 +1,2 @@
 # Auxiliatura
-repositorio de auxiliatura
+1.  ESTE ES MI REPOSITORIO DE AUXILIATURA
